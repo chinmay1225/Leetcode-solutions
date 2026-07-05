@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0001-two-sum) |
+| [1539-kth-missing-positive-number](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0876-middle-of-the-linked-list](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
+## Binary Search
+|  |
+| ------- |
+| [1539-kth-missing-positive-number](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
