@@ -9,34 +9,23 @@
  * };
  */
 class Solution {
-private:
-    int getLen(ListNode* head){
-        int len = 0;
-        while(head != NULL){
-            len++;
-            head = head -> next;
-        }
-        return len;
-    }
 public:
     ListNode* deleteMiddle(ListNode* head) {
-        if(head == NULL){
+        if(head == NULL || head -> next == NULL){
             return NULL;
         }
-        if(head -> next == NULL){
-            return NULL;
-        }
-        int len = getLen(head);
-        int middle = len/2;
 
-        //node before middle
-        ListNode* prev = head;
-        for(int i=1; i< middle; i++){
-            prev = prev -> next;
+        ListNode* prev = NULL;
+        ListNode* slow = head;
+        ListNode* fast = head;
+
+        while(fast && fast -> next){
+            prev = slow;
+            slow = slow -> next;
+            fast = fast -> next -> next;
         }
 
-        ListNode* nodeToDelete = prev -> next;
-        prev -> next = nodeToDelete -> next;
+        prev -> next = slow -> next;
 
         return head;
     }
