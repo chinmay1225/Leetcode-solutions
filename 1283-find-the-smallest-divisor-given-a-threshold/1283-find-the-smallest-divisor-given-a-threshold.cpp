@@ -9,7 +9,7 @@ public:
 
             int sum=0;
             for(int num: nums){
-                sum += ceil((double)num/mid);
+                sum += (num+mid-1)/mid;
             }
 
             if(sum <= threshold){
