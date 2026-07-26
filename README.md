@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0001-two-sum) |
+| [0152-maximum-product-subarray](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0148-sort-list) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
