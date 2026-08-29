@@ -6,22 +6,17 @@ public:
         for(int i=0; i<s.length(); i++){
             char ch = s[i];
 
-            //if opening bracket , push in stack
-            //if closing bracket , stacktop check and pop
-
-            if(ch == '(' || ch == '{' || ch == '['){
+            if(ch=='(' || ch=='{' || ch=='['){
                 st.push(ch);
             }else{
                 if(!st.empty()){
                     char top = st.top();
-                    if((ch == ')' && top == '(') || (ch =='}' && top == '{') || (ch == ']' && top == '[')){
+                    if((ch == ')' && top == '(') || (ch == '}' && top == '{') || (ch == ']' && top == '[')){
                         st.pop();
-                    }
-                    else{
+                    }else{
                         return false;
                     }
-                }
-                else{
+                }else{
                     return false;
                 }
             }
