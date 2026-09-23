@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [1952-three-divisors](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1952-three-divisors) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -159,4 +160,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
