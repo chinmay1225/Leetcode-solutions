@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0728-self-dividing-numbers](https://github.com/chinmay1225/Leetcode-solutions/tree/master/0728-self-dividing-numbers) |
 | [1952-three-divisors](https://github.com/chinmay1225/Leetcode-solutions/tree/master/1952-three-divisors) |
 ## Divide and Conquer
 |  |
